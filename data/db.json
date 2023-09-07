@@ -1,0 +1,88 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "movieName": "Ulidavaru Kandanthe",
+      "hero": "Rakshit Shetty",
+      "heroine": "Sheetal Shetty",
+      "director": "Rakshit Shetty",
+      "year": 2014,
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTc3ODUxODg3MV5BMl5BanBnXkFtZTgwMDc0MDY4MTE@._V1_UX140_CR0,0,140,209_AL_.jpg",
+      "genere": "Crime, Drama, Thriller",
+      "story": "A journalist sets out to uncover the truth behind an incident, through the perspectives of different people, unraveling how they and their lives are intertwined with it.",
+      "rating": 8.4
+    },
+    {
+      "id": 2,
+      "movieName": "K.G.F: Chapter 1",
+      "hero": "Yash",
+      "heroine": "Srinidhi Shetty",
+      "director": "Prashanth Neel",
+      "year": 2018,
+      "poster": "https://m.media-amazon.com/images/M/MV5BZDNlNzBjMGUtYTA0Yy00OTI2LWJmZjMtODliYmUyYTI0OGFmXkEyXkFqcGdeQXVyODIwMDI1NjM@._V1_UX140_CR0,0,140,209_AL_.jpg",
+      "genere": "Action, Crime, Drama",
+      "story": "In the 1970s, a gangster goes undercover as a slave to assassinate the owner of a notorious gold mine.",
+      "rating": 8.2
+    },
+    {
+      "id": 3,
+      "movieName": "Lucia",
+      "hero": "Sathish Neenasam",
+      "heroine": "Sruthi Hariharan",
+      "director": "Pawan Kumar",
+      "year": 2013,
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTQyMDA5ODkzN15BMl5BanBnXkFtZTgwMjIzMDkyMDE@._V1_UY209_CR1,0,140,209_AL_.jpg",
+      "genere": "Drama, Sci-Fi, Thriller",
+      "story": "A man suffering from insomnia is tricked into buying a drug, Lucia, that makes his desires come true in his dreams, blurring the line between fantasy and reality.",
+      "rating": 8.3
+    },
+    {
+      "id": 4,
+      "movieName": "RangiTaranga",
+      "hero": "Nirup Bhandari",
+      "heroine": "Radhika Narayan",
+      "director": "Anup Bhandari",
+      "year": 2015,
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTAzNjAwNDEwMTNeQTJeQWpwZ15BbWU4MDk5MjMyMzYx._V1_UY209_CR0,0,140,209_AL_.jpg",
+      "genere": "Mystery, Thriller",
+      "story": "Mysterious events begin to unfold after a reclusive novelist and his wife move back to her ancestral village, followed by a journalist.",
+      "rating": 8.2
+    },
+    {
+      "id": 5,
+      "movieName": "Ugramm",
+      "hero": "Sriimurali",
+      "heroine": "Haripriya",
+      "director": "Prashanth Neel",
+      "year": 2014,
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTc2MDkwNzk3OF5BMl5BanBnXkFtZTgwMTQ3NTcyMTE@._V1_UX140_CR0,0,140,209_AL_.jpg",
+      "genere": "Action, Drama, Thriller",
+      "story": "A man with a dangerous past must protect a girl from those who are hell bent on killing her.",
+      "rating": 8.1
+    },
+    {
+      "id": 6,
+      "movieName": "Kirik Party",
+      "hero": "Rakshit Shetty",
+      "heroine": "Rashmika Mandanna",
+      "director": "Rishab Shetty",
+      "year": 2016,
+      "poster": "https://m.media-amazon.com/images/M/MV5BMjU4MDIyNjctMjRlNy00YmI0LThmNDAtNzhlZjgwMWJhOThiXkEyXkFqcGdeQXVyMzU0ODc1MTQ@._V1_UX140_CR0,0,140,209_AL_.jpg",
+      "genere": "Comedy, Drama",
+      "story": "Kirik Party is the story of a gang of mischievous students, lead by the protagonist Karna (Rakshit Shetty), who has just joined an engineering college.",
+      "rating": 8.2
+    },
+    {
+      "movieName": "Tagaru",
+      "hero": "Shivarajkumar",
+      "heroine": "Bhavana",
+      "director": "Soori",
+      "year": "2018",
+      "poster": "https://m.media-amazon.com/images/M/MV5BOTA3MjQ5MDUtYzBhOC00ZTJhLWJlZTgtZmM1MzhkY2RmNjY1XkEyXkFqcGdeQXVyNTE3NDA1MDg@._V1_UX140_CR0,0,140,209_AL_.jpg",
+      "genere": "Action, Crime",
+      "story": "Duniya Soori's Tagaru takes us on a bloody ride through the dark underbelly of the underworld and their clash against the police.",
+      "rating": "7.9",
+      "id": 7
+    }
+  ]
+}
